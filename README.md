@@ -12,9 +12,9 @@ Para o desenvolvimento da estrutura inicial utilizei o seguinte tutorial escrito
 ](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
 
 **Outras leituras - conteúdos:**
-[SPA - intro](https://www.youtube.com/watch?v=L4jqow7NTVg&feature=youtu.be)
-[5 Steps to Turn a Random React Application Into a Micro Front-End](https://medium.com/better-programming/5-steps-to-turn-a-random-react-application-into-a-micro-frontend-946718c147e7)
-[Microfrontends — bringing JavaScript frameworks together (React, Angular, Vue etc)](https://medium.com/javascript-in-plain-english/microfrontends-bringing-javascript-frameworks-together-react-angular-vue-etc-5d401cb0072b)
+[SPA - intro](https://www.youtube.com/watch?v=L4jqow7NTVg&feature=youtu.be)<br />
+[5 Steps to Turn a Random React Application Into a Micro Front-End](https://medium.com/better-programming/5-steps-to-turn-a-random-react-application-into-a-micro-frontend-946718c147e7)<br />
+[Microfrontends — bringing JavaScript frameworks together (React, Angular, Vue etc)](https://medium.com/javascript-in-plain-english/microfrontends-bringing-javascript-frameworks-together-react-angular-vue-etc-5d401cb0072b)<br />
 [Arquitetura micro frontend](https://movile.blog/arquitetura-micro-frontend/)
 
 ###### Running 
